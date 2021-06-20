@@ -16,7 +16,7 @@ question_prompts = [
      "What African country has the largest population?\n(A) South Africa\n(B) Nigeria\n(C) Egypt\n(D) Kenya",
      "What US state is furthest west?\n(A) Michigan\n(B) Ohio\n(C) Kentucky\n(D) Alabama",
      "What London Underground line is represented as yellow on the tube map?\n(A) Hammersmith & City\n(B) District\n(C) Circle\n(D) Victoria",
-     "What is the currency of Czech Republic\n(A) Koruna\n(B) Forint\n(C) Euro\n(D) Zloty",
+     "What is the currency of Czech Republic?\n(A) Koruna\n(B) Forint\n(C) Euro\n(D) Zloty",
      "What is the most visited country in East Asia?\n(A) Thailand\n(B) Japan\n(C) Malaysia\n(D) China",
      "Constantinople and Byzantium are former names of which major city?\n(A) Istanbul\n(B) Athens\n(C) Ankara\n(D) Beirut",
      "What country has the longest coastline in the world?\n(A) Russia\n(B) Canada\n(C) Australia\n(D) Greenland",
