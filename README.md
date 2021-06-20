@@ -1,1 +1,1 @@
-# Multiple-Choice-Quiz
+A Python CLI multiple choice geography quiz.
